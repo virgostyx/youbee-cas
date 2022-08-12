@@ -7,3 +7,4 @@ requests
 fontawesomefree
 gevent
 defusedxml
+django-mama-cas
